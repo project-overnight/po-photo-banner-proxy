@@ -15,8 +15,8 @@ This proxy brings together the following modules:
 ## Technologies Used
 
   - Frontend: React, HTML5, CSS3, jQuery
-  - Backend: Node.js, Express, MongoDB
-  - Deployment: AWS (EC2)
+  - Backend: MongoDB, Express, Node.js
+  - Deployment: AWS (EC2, S3)
 
 ## Usage
 
