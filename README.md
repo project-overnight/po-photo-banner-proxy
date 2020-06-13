@@ -6,11 +6,11 @@ Project Overnight is a full-stack property rental platform that allows users to 
 
 ## Related Projects
 
-This proxy brings together the following modules:
-  - Photo Banner Module: https://github.com/project-overnight/po-photo-banner
-  - Description Module: https://github.com/project-overnight/po-description
-  - Reviews Module: https://github.com/project-overnight/po-reviews
-  - Reservation Module: https://github.com/project-overnight/po-reservations
+This proxy brings together the following Services:
+  - Photo Banner: https://github.com/project-overnight/po-photo-banner
+  - Description: https://github.com/project-overnight/po-description
+  - Reviews: https://github.com/project-overnight/po-reviews
+  - Reservation: https://github.com/project-overnight/po-reservations
 
 ## Technologies Used
 
