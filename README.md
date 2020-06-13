@@ -2,7 +2,7 @@
 
 Project Overnight is a full-stack property rental platform that allows users to learn about the property via descriptions and images, make reservations, and explore reviews.
 
-![Project Overnight Proxy Demo](demo/demo.gif)
+![Project Overnight Proxy Demo](demo.gif)
 
 ## Related Projects
 
