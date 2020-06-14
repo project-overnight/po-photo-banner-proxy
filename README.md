@@ -1,4 +1,4 @@
-# Project Overnight: Property Rental Application
+# Project Overnight: Proxy
 
 Project Overnight is a full-stack property rental platform that allows users to learn about the property via descriptions and images, make reservations, and explore reviews.
 
@@ -6,17 +6,11 @@ Project Overnight is a full-stack property rental platform that allows users to 
 
 ## Related Projects
 
-This proxy brings together the following Services:
+This proxy brings together the following services:
   - Photo Banner: https://github.com/project-overnight/po-photo-banner
   - Description: https://github.com/project-overnight/po-description
   - Reviews: https://github.com/project-overnight/po-reviews
   - Reservation: https://github.com/project-overnight/po-reservations
-
-## Technologies Used
-
-  - Frontend: React, HTML5, CSS3, jQuery
-  - Backend: MongoDB, Express, Node.js
-  - Deployment: AWS (EC2, S3)
 
 ## Usage
 
